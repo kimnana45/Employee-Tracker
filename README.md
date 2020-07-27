@@ -35,10 +35,6 @@ Build a command-line application that at a minimum allows the user to:
 
   * Update employee roles
 
-Bonus points if you're able to:
-
-  * Update employee managers
-
   * View employees by manager
 
   * Delete departments, roles, and employees
