@@ -115,7 +115,6 @@ Follow these guidelines for committing:
 
 * Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
 
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
 
 
 
