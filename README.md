@@ -43,9 +43,6 @@ Bonus points if you're able to:
 
   * Delete departments, roles, and employees
 
-  * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
-
-We can frame this challenge as follows:
 
 ```
 As a business owner
