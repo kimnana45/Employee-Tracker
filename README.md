@@ -36,6 +36,8 @@ Employee Tracker has a total 12 functions. When user first start up the applicat
 
 <img src="demo/Delete&Update.png">
 
+Copyright 2020 © Kim Le 
+
 
 
 
