@@ -113,7 +113,7 @@ One of the most important skills to master as a web developer is version control
 
 Follow these guidelines for committing:
 
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
+
 
 
 
