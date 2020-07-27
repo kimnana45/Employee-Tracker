@@ -91,10 +91,6 @@ How do you deliver this? Here are some guidelines:
 
   * Update employee roles
 
-
-
-  * Update employee managers
-
   * View employees by manager
 
   * Delete departments, roles, and employees
