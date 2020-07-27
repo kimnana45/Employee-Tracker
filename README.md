@@ -109,9 +109,7 @@ One of the most important skills to master as a web developer is version control
 
 * Your commit history is a signal to employers that you are actively working on projects and learning new skills.
 
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
 
-Follow these guidelines for committing:
 
 
 
