@@ -75,8 +75,6 @@ How do you deliver this? Here are some guidelines:
 
 * Review the week's activities for a refresher on MySQL.
 
-* Check out [SQL Bolt](https://sqlbolt.com/) for some extra MySQL help.
-
 
 * The command-line application should allow users to:
 
