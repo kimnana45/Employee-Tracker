@@ -105,7 +105,7 @@ How do you deliver this? Here are some guidelines:
 
 ## Commit Early and Often
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+
 
 
 
