@@ -24,6 +24,10 @@ Employee Tracker has a total 12 functions. When user first start up the applicat
 
 <img src="demo/ET.png">
 
+* VIEW functions 
+
+<img src="demo/View.png">
+
 
 
 
