@@ -1,19 +1,14 @@
 # Employee Tracker
 
-In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
-
-Build a command-line application that at a minimum allows the user to:
-
+## Overview 
+Employee Tracker-CLI is a node command line interface that interacts with the Employees SQL Database. It allows the users to:
   * Add departments, roles, employees
 
   * View departments, roles, employees
 
   * Update employee roles
 
-  * View employees by manager
-
   * Delete departments, roles, and employees
-
 
 ```
 As a business owner
